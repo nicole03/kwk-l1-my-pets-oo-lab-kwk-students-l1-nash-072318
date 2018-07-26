@@ -3,6 +3,6 @@ class Dog
     @name = name 
     @mood = "nervous"
 end
-mood=(new_mood)
-
+def mood=(new_mood)
+mood = 
 
