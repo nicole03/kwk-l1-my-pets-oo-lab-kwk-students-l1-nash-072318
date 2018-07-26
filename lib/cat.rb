@@ -3,6 +3,5 @@ class Cat
   end 
   
   
-  
 end
 
