@@ -1,3 +1,8 @@
 class Dog
-  # code goes here
+  def initialize 
+    @name = name 
+    @mood = "nervous"
 end
+mood=(new_mood)
+
+
